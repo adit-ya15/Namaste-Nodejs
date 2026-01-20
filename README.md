@@ -15,5 +15,32 @@ Namaste Node.js
 
 ---
 
-## 🗂 Repository Structure
+## 🛠 Tech Stack
+- Node.js
+- JavaScript
+- Express (coming soon)
+- MongoDB (later)
+
+---
+
+## 📌 Progress Tracker
+
+- [x] Day 01 – Introduction to Node.js & Runtime
+- [ ] Day 02 – Event Loop & Async Architecture
+- [ ] REST APIs
+- [ ] Authentication
+- [ ] Databases
+
+---
+
+## 📅 Commitment
+I update this repository **daily** with:
+- Notes
+- Code examples
+- Key takeaways
+
+---
+
+⭐ If you find this helpful, feel free to star the repo!
+
 

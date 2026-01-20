@@ -25,9 +25,7 @@ Namaste Node.js
 
 ## 📌 Progress Tracker
 
-- [x] Lecture 01 – Node.js Introduction
-- [ ] Lecture 02 – JS Runtime & Event Loop
-- [ ] Lecture 03 – Async Architecture
+- [x] Lecture 01 – Course Introduction
 - [ ] REST APIs
 - [ ] Authentication
 

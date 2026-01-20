@@ -25,11 +25,11 @@ Namaste Node.js
 
 ## 📌 Progress Tracker
 
-- [x] Day 01 – Introduction to Node.js & Runtime
-- [ ] Day 02 – Event Loop & Async Architecture
+- [x] Lecture 01 – Node.js Introduction
+- [ ] Lecture 02 – JS Runtime & Event Loop
+- [ ] Lecture 03 – Async Architecture
 - [ ] REST APIs
 - [ ] Authentication
-- [ ] Databases
 
 ---
 
